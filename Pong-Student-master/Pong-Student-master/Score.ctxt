@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Score
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Score\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=onLeft
+comment1.target=Score(boolean)
+comment1.text=\r\n\ This\ is\ a\ constuctor\ for\ Score\r\n\ \r\n\ @param\ boolean\ onLeft\ that\ represet\ which\ paddle\ is\ on\ the\ Left\ Side\r\n\ @return\ Does\ not\ return\ anything\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Score\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ displayScore()
+comment3.text=\r\n\ displayScore\ is\ the\ method\ that\ displays\ the\ players\ score\ on\ the\ screen(World)\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Does\ not\ return\ anything\r\n
+comment4.params=
+comment4.target=void\ countScore()
+comment4.text=\r\n\ TODO\ (35)\:\ Declare\ a\ public\ method\ called\ countScore\ that\ does\ not\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ anything\ and\ has\ no\ parameters\r\n\ \ \ \ \ \ \ \ \ \ \r\n\ TODO\ (36)\:\ Inside\ the\ method,\ increase\ playerScore\ by\ 1\ (increment\ the\ playerScore)\r\n\ \r\n\ TODO\ (37)\:\ The\ score\ has\ now\ changed.\ Change\ the\ variable\ that\ stores\ this\ info\r\n
+comment5.params=
+comment5.target=int\ getScore()
+comment5.text=\r\n\ getScore\ is\ the\ method\ that\ return\ the\ score\ for\ the\ scoreboard\r\n\ \r\n\ @param\ None\ There\ are\ no\ parameters\r\n\ @return\ Integer\ that\ represent\ the\ number\ of\ points\r\n
+numComments=6
